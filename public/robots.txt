@@ -1,0 +1,7 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://diagmind-v271-jkjzzs.teleporthq.app/sitemap.xml
